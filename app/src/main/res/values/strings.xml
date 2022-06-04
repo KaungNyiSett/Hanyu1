@@ -1,0 +1,342 @@
+<resources>
+    <string name="app_name">Hanyu 1</string>
+    <string name="sentences">Sentences</string>
+    <string name="learn">Learn</string>
+    <string name="vocabulary">Vocabulary</string>
+    <string name="reading">Reading</string>
+    <string name="favorites">Favorites</string>
+    <string name="languages">Languages</string>
+    <string name="rate">Rate this app</string>
+    <string name="english">English</string>
+    <string name="myanmar">Myanmar</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="DAheading">Delete All</string>
+    <string name="DAtext">Are you sure want to delete the whole favorite list?</string>
+    <string name="delete">Delete</string>
+    <string name="search">Click here to search…</string>
+    <string name="levelAdd">Have you done learning Hanyu 1? Get Hanyu 2 on Playstore and take your Chinese to another level.</string>
+    <string name="lesson1">Lesson 1</string>
+    <string name="lesson2">Lesson 2</string>
+    <string name="lesson3">Lesson 3</string>
+    <string name="lesson4">Lesson 4</string>
+    <string name="lesson5">Lesson 5</string>
+    <string name="lesson6">Lesson 6</string>
+    <string name="lesson7">Lesson 7</string>
+    <string name="lesson8">Lesson 8</string>
+    <string name="lesson9">Lesson 9</string>
+    <string name="lesson10">Lesson 10</string>
+    <string name="lesson11">Lesson 11</string>
+    <string name="lesson12">Lesson 12</string>
+    <string name="lesson13">Lesson 13</string>
+    <string name="lesson14">Lesson 14</string>
+    <string name="lesson15">Lesson 15</string>
+
+    <!-- Book 1 Lesson 1 -->
+    <string name="d1">you;your</string>
+    <string name="d2">good;fine;nice</string>
+    <string name="d3">thanks</string>
+    <string name="d4">You\'re welcome.</string>
+    <string name="d5">Goodbye; see you again</string>
+    <string name="d6">teacher; schoolmaster</string>
+    <string name="d7">classmate; schoolmate; fellow student</string>
+    <string name="d8">Affix[after personal pronoun or a noun referring to a person to form the plural]</string>
+    <string name="d9">Xiao Hua(Name)</string>
+    <string name="d10">Xiao Hong(Name)</string>
+    <string name="d11">Xiao Qiang(Name)</string>
+    <string name="b1l1s1">Hello!</string>
+    <string name="b1l1s2">Thanks!</string>
+    <string name="b1l1s3">You are welcome!</string>
+    <string name="b1l1s4">Goodbye!</string>
+    <string name="b1l1s5">Xiaohua: Hello!</string>
+    <string name="b1l1s6">Xiaohong: Hello!</string>
+    <string name="b1l1s7">Xiaoqiang, Xiaohong: Hello, teacher!</string>
+    <string name="b1l1s8">Teacher: Hello, students!</string>
+    <string name="b1l1s9">Xiaohong: Thank you!</string>
+    <string name="b1l1s10">Teacher: You\'re welcome!</string>
+    <string name="b1l1s11">Xiaohua, Xiaohong: Teacher, goodbye!</string>
+    <string name="b1l1s12">Teacher: Goodbye!</string>
+
+    <!-- Book 1 Lesson 2 -->
+    <string name="d12">I; me; my</string>
+    <string name="d13">love; like; fond of; keen on; affection</string>
+    <string name="d14">dad; father</string>
+    <string name="d15">mom; mother</string>
+    <string name="d16">to be</string>
+    <string name="d17">He; him; his</string>
+    <string name="d18">She; her</string>
+    <string name="d19">Wang(Surname)</string>
+    <string name="b1l2s1">I am Wang Xiaohua.</string>
+    <string name="b1l2s2">He is my dad.</string>
+    <string name="b1l2s3">She is my mother.</string>
+    <string name="b1l2s4">I love mom.</string>
+    <string name="b1l2s5">Mom loves me.</string>
+    <string name="b1l2s6">I love mom and dad.</string>
+    <string name="b1l2s7">I am Wang Xiaohua, he is my father, she is my mother, and I love my parents.</string>
+
+    <!-- Book 1 Lesson 3 -->
+    <string name="d20">student; pupil; disciple; follower</string>
+    <string name="d21">uncle; father\'s younger brother</string>
+    <string name="d22">police; policeman</string>
+    <string name="d23">doctor; medical man</string>
+    <string name="d24">[is used at the end of yes/no question]</string>
+    <string name="d25">no; not</string>
+    <string name="d26">younger brother</string>
+    <string name="d27">younger sister</string>
+    <string name="b1l3s1">I am a student.</string>
+    <string name="b1l3s2">Dad is a teacher.</string>
+    <string name="b1l3s3">Mom is a doctor.</string>
+    <string name="b1l3s4">Uncle is a policeman.</string>
+    <string name="b1l3s5">Is your mother a teacher?</string>
+    <string name="b1l3s6">My mother is not a teacher, she is a doctor.</string>
+    <string name="b1l3s7">Is your father a doctor?</string>
+    <string name="b1l3s8">My dad is not a doctor, he is a teacher.</string>
+    <string name="b1l3s9">My father is a teacher, my mother is a doctor, and I am a student. Are brother and sister students? They are not students.</string>
+
+    <!-- Book 1 Lesson 4 -->
+    <string name="d28">call; be called; name is;</string>
+    <string name="d29">what</string>
+    <string name="d30">name; given name</string>
+    <string name="d31">family name; be surnamed; surname is;</string>
+    <string name="d32">older/elder brother</string>
+    <string name="d33">older/elder sister</string>
+    <string name="d34">Zhang(Surname)</string>
+    <string name="d35">Chen(Surname)</string>
+    <string name="d36">Wang Xiao Ming(Name)</string>
+    <string name="d37">Li Xiao Ling(name)</string>
+    <string name="d38">Wang Xiao Li(Name)</string>
+    <string name="b1l4s1">What is your surname? My surname is Wang.</string>
+    <string name="b1l4s2">What is his surname? His surname is Zhang.</string>
+    <string name="b1l4s3">What is the teacher\'s surname? The teacher\'s surname is Chen.</string>
+    <string name="b1l4s4">What\'s your name?</string>
+    <string name="b1l4s5">My name is Wang Xiaoming.</string>
+    <string name="b1l4s6">What\'s your brother\'s name?</string>
+    <string name="b1l4s7">His name is Wang Xiaohua.</string>
+    <string name="b1l4s8">What\'s your sister\'s name?</string>
+    <string name="b1l4s9">Her name is Li Xiaoling.</string>
+    <string name="b1l4s10">My surname is Wang, and my name is Wang Xiaohua. My brother\'s name is Wang Xiaoming, and my sister\'s name is Wang Xiaoli.</string>
+
+    <!-- Book 1 Lesson 5 -->
+    <string name="d39">home; family; household</string>
+    <string name="d40">this</string>
+    <string name="d41">[is used at the end of a special, alternative, or rhetorical question];\n\nwhat about…?</string>
+    <string name="d42">dirty</string>
+    <string name="d43">Interjection; Aww; O</string>
+    <string name="d44">I\'m sorry; sorry; excuse me; pardon me</string>
+    <string name="d45">It doesn\'t matter; never mind</string>
+    <string name="b1l5s1">This is my home, I love my dad, I love my mom, I love my home.</string>
+    <string name="b1l5s2">Wang Xiaohua: Hello!</string>
+    <string name="b1l5s3">Zhang Xiaoqiang: Hello!</string>
+    <string name="b1l5s4">Wang Xiaohua: I am Wang Xiaohua, how about you?</string>
+    <string name="b1l5s5">Zhang Xiaoqiang: My name is Zhang Xiaoqiang.</string>
+    <string name="b1l5s6">Wang Xiaohua: Dirty-----Xiao-----Qiang?</string>
+    <string name="b1l5s7">Zhang Xiaoqiang: My surname is Zhang, and I am not dirty.</string>
+    <string name="b1l5s8">Wang Xiaohua: Oh, sorry, Zhang Xiaoqiang.</string>
+    <string name="b1l5s9">Zhang Xiaoqiang: It doesn\'t matter!</string>
+
+    <!-- Book 1 Lesson 6 -->
+    <string name="d46">go; go to</string>
+    <string name="d47">school; educational institution</string>
+    <string name="d48">where</string>
+    <string name="d49">toilet; lavatory</string>
+    <string name="d50">classroom; schoolroom</string>
+    <string name="d51">(paternal)grandfather</string>
+    <string name="d52">park; public garden</string>
+    <string name="d53">(early) morning</string>
+    <string name="d54">hospital</string>
+    <string name="d55">kindergarten; nursery(or infant) school</string>
+    <string name="b1l6s1">Where is Xiaohua going?</string>
+    <string name="b1l6s2">Xiaohua goes to school.</string>
+    <string name="b1l6s3">Xiaoqiang goes to the toilet.</string>
+    <string name="b1l6s4">Teacher Chen goes to the classroom.</string>
+    <string name="b1l6s5">Grandpa goes to the park.</string>
+    <string name="b1l6s6">Mom is a doctor and she goes to the hospital in the morning. I go to kindergarten. Where is brother going? He is a student and he goes to school.</string>
+
+    <!-- Book 1 Lesson 7 -->
+    <string name="d56">class; subject; course; lesson</string>
+    <string name="d57">attend class; go to class</string>
+    <string name="d58">[is used at the end of a suggestion or command]</string>
+    <string name="d59">lecture; speech; explain; teach</string>
+    <string name="d60">teach; lecture; deliver a lecture</string>
+    <string name="d61">listen</string>
+    <string name="d62">audit a class; attend a lecture; listen to a lecture</string>
+    <string name="d63">playground; sports ground</string>
+    <string name="d64">zoo; zoological garden</string>
+    <string name="d65">[is used at the end of a sentence to indicate a change of situation or state, whether actual or envisaged]</string>
+    <string name="d66">enter; go in</string>
+    <string name="d67">ask; question</string>
+    <string name="d68">reply; answer</string>
+    <string name="b1l7s1">We attend class.</string>
+    <string name="b1l7s2">Teacher lectures.</string>
+    <string name="b1l7s3">The students listen to the lecture.</string>
+    <string name="b1l7s4">Let\'s go to the playground.</string>
+    <string name="b1l7s5">Let\'s go to the zoo.</string>
+    <string name="b1l7s6">Let\'s go to class.</string>
+    <string name="b1l7s7">Class is over, let\'s go into the classroom! The teacher speaks, and we listen. The teacher asks and we answer.</string>
+
+    <!-- Book 1 Lesson 8 -->
+    <string name="d69">eat</string>
+    <string name="d70">cooked rice; meal</string>
+    <string name="d71">lunch; midday meal</string>
+    <string name="d72">breakfast</string>
+    <string name="d73">dinner</string>
+    <string name="d74">noodles</string>
+    <string name="d75">noon; midday</string>
+    <string name="d76">dumplings</string>
+    <string name="d77">evening</string>
+    <string name="d78">(cooked)rice</string>
+    <string name="d79">and; with</string>
+    <string name="b1l8s1">Xiaohua has breakfast.</string>
+    <string name="b1l8s2">Xiaohua has lunch.</string>
+    <string name="b1l8s3">Xiaohua has dinner.</string>
+    <string name="b1l8s4">Dad eats noodles in the morning.</string>
+    <string name="b1l8s5">Mom eats dumplings at noon.</string>
+    <string name="b1l8s6">We eat rice in the evening.</string>
+    <string name="b1l8s7">My sister and I went to the zoo.</string>
+    <string name="b1l8s8">Xiaohua and Xiaoqiang are classmates.</string>
+    <string name="b1l8s9">Mom and Dad have breakfast.</string>
+    <string name="b1l8s10">At noon, we have lunch. I eat noodles, Xiaohong and Xiaoqiang eat rice, and the teacher eats dumplings.</string>
+
+    <!-- Book 1 Lesson 9 -->
+    <string name="d80">hit; play</string>
+    <string name="d81">ball</string>
+    <string name="d82">who</string>
+    <string name="d83">basketball</string>
+    <string name="d84">volleyball</string>
+    <string name="d85">kick; play</string>
+    <string name="d86">football</string>
+    <string name="d87">finish class; get out of class</string>
+    <string name="d88">table tennis/ball</string>
+    <string name="d89">skip; jump; leap</string>
+    <string name="d90">rope; string</string>
+    <string name="b1l9s1">Who is he?</string>
+    <string name="b1l9s2">He is my brother.</string>
+    <string name="b1l9s3">Xiaohua plays ball.</string>
+    <string name="b1l9s4">Xiaohua plays basketball.</string>
+    <string name="b1l9s5">My brother doesn\'t play volleyball.</string>
+    <string name="b1l9s6">My sister doesn\'t play football.</string>
+    <string name="b1l9s7">After class, the students play basketball and football. Xiaoqiang and I play table tennis. Xiaohua does not play, she skips rope.</string>
+
+    <!-- Book 1 Lesson 10 -->
+    <string name="d91">of, \'s</string>
+    <string name="d92">sky; day; season</string>
+    <string name="d93">do; make</string>
+    <string name="d94">game; recreation</string>
+    <string name="d95">school lets out; classes are over</string>
+    <string name="d96">return; go back; turn around</string>
+    <string name="d97">homework</string>
+    <string name="d98">bread</string>
+    <string name="b1l10s1">I go to school in the morning. The class begins, the teacher is teaching, and we are listening. After class, I played games with my classmates. After school, I go home and do my homework.</string>
+    <string name="b1l10s2">Zhang Xiaoqiang: Who is he?</string>
+    <string name="b1l10s3">Wang Xiaohua: He is my father.</string>
+    <string name="b1l10s4">Zhang Xiaoqiang: What does he eat?</string>
+    <string name="b1l10s5">Wang Xiaohua: He eats bread.</string>
+    <string name="b1l10s6">Zhang Xiaoqiang: Where is he going?</string>
+    <string name="b1l10s7">Wang Xiaohua: He goes to school.</string>
+    <string name="b1l10s8">Wang Xiaohua: He plays basketball with his brother.</string>
+    <string name="b1l10s9">Wang Xiaohua: He plays basketball with his brother.</string>
+
+    <!-- Book 1 Lesson 11 -->
+    <string name="d99">book</string>
+    <string name="d100">pen; pencil; writing brush</string>
+    <string name="d101">toy; plaything</string>
+    <string name="d102">that</string>
+    <string name="d103">schoolbag</string>
+    <string name="d104">notebook; book</string>
+    <string name="d105">ruler</string>
+    <string name="d106">(paternal) grandmother</string>
+    <string name="d107">desk-mate</string>
+    <string name="b1l11s1">This is my book.</string>
+    <string name="b1l11s2">This is Xiaoqiang\'s pen.</string>
+    <string name="b1l11s3">This is my sister\'s toy.</string>
+    <string name="b1l11s4">Whose bag is that?</string>
+    <string name="b1l11s5">Whose book is that?</string>
+    <string name="b1l11s6">Whose ruler is that?</string>
+    <string name="b1l11s7">Whose grandma is she?</string>
+    <string name="b1l11s8">She is Xiao Li\'s grandmother.</string>
+    <string name="b1l11s9">This is my book, that is my deskmate\'s book. This is Xiaoqiang\'s schoolbag. Whose bag is that? That is Xiaohua\'s schoolbag.</string>
+
+    <!-- Book 1 Lesson 12 -->
+    <string name="d108">have; possess; exist</string>
+    <string name="d109">two</string>
+    <string name="d110">measure word for books, parts of a serial,etc.</string>
+    <string name="d111">measure word for nouns without special measure words of their own</string>
+    <string name="d112">mother\'s sister; aunt</string>
+    <string name="d113">son</string>
+    <string name="d114">daughter</string>
+    <string name="d115">measure word for long, thin, inflexible objects</string>
+    <string name="d116">how many; a few; some</string>
+    <string name="b1l12s1">I have three sisters.</string>
+    <string name="b1l12s2">Auntie Li has a son.</string>
+    <string name="b1l12s3">Uncle Chen has a daughter.</string>
+    <string name="b1l12s4">Xiaoqiang has two pens.</string>
+    <string name="b1l12s5">Xiaohua has two books.</string>
+    <string name="b1l12s6">Xiao Ming has two books.</string>
+    <string name="b1l12s7">How many pens do you have?</string>
+    <string name="b1l12s8">How many books do you have?</string>
+    <string name="b1l12s9">How many books do you have?</string>
+    <string name="b1l12s10">This is my bag. I have two books, four pens and five notebooks. How many books do you have?</string>
+
+    <!-- Book 1 Lesson 13 -->
+    <string name="d117">computer</string>
+    <string name="d118">measure word for certain machinery, apparatus, instruments, etc.</string>
+    <string name="d119">[measure word for bed, desk, leather, paper, face, mouth, etc.]</string>
+    <string name="d120">photograph; picture</string>
+    <string name="d121">not have; be without; there is not</string>
+    <string name="d122">bike; bicycle</string>
+    <string name="d123">dictionary; character dictionary</string>
+    <string name="d124">umbrella</string>
+    <string name="d125">canteen; dining hall</string>
+    <string name="b1l13s1">I have a computer.</string>
+    <string name="b1l13s2">I have a photo.</string>
+    <string name="b1l13s3">I don\'t have a bicycle.</string>
+    <string name="b1l13s4">I don\'t have a dictionary.</string>
+    <string name="b1l13s5">Does Xiaoqiang have a computer?</string>
+    <string name="b1l13s6">Does Xiaoli have an umbrella?</string>
+    <string name="b1l13s7">Do you have a brother?</string>
+    <string name="b1l13s8">Does your school have a canteen?</string>
+    <string name="b1l13s9">I have two computers at home. My dad has one, my brother has one, and I don\'t have a computer. Do you have a computer at home?</string>
+
+    <!-- Book 1 Lesson 14 -->
+    <string name="d126">exist; be at</string>
+    <string name="d127">bookshelf</string>
+    <string name="d128">on; upon; upper; higher</string>
+    <string name="d129">table</string>
+    <string name="d130">chair</string>
+    <string name="d131">below; down; under; lower</string>
+    <string name="d132">side</string>
+    <string name="d133">library</string>
+    <string name="d134">left; the left side</string>
+    <string name="d135">right; the right side</string>
+    <string name="b1l14s1">Books are on the table.</string>
+    <string name="b1l14s2">Books are on the chair.</string>
+    <string name="b1l14s3">Books are on the shelf.</string>
+    <string name="b1l14s4">The basketball is under the chair.</string>
+    <string name="b1l14s5">The book is under the dictionary.</string>
+    <string name="b1l14s6">The bag is under the table.</string>
+    <string name="b1l14s7">The classroom is on the left of the library.</string>
+    <string name="b1l14s8">The library is to the right of the classroom.</string>
+    <string name="b1l14s9">The sister is on the left of the mother.</string>
+    <string name="b1l14s10">The younger brother is on the right side of the mother.</string>
+    <string name="b1l14s11">Our school has a library.</string>
+    <string name="b1l14s12">The library is to the right of the classroom.</string>
+    <string name="b1l14s13">Where are the books in the library?</string>
+    <string name="b1l14s14">Books are on the shelf</string>
+
+    <!-- Book 1 Lesson 15 -->
+    <string name="d136">room</string>
+    <string name="d137">this place; here</string>
+    <string name="d138">bed</string>
+    <string name="d139">wardrobe</string>
+    <string name="d140">measure word for something with a handle</string>
+    <string name="d141">round table</string>
+    <string name="d142">hand</string>
+    <string name="d143">nose</string>
+    <string name="d144">eyebrows</string>
+    <string name="d145">eyes</string>
+    <string name="d146">mouth</string>
+    <string name="d147">ears</string>
+    <string name="b1l15s1">This is my room, there is a bed, a bookshelf, a wardrobe, two tables and two chairs.</string>
+    <string name="b1l15s2">My computer is on the table and the football is under the round table.</string>
+
+</resources>

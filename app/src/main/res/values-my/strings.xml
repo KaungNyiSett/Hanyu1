@@ -1,0 +1,342 @@
+<resources>
+    <string name="app_name">Hanyu 1</string>
+    <string name="sentences">နမူနာစာကြောင်းများ</string>
+    <string name="learn">လေ့လာမည်</string>
+    <string name="vocabulary">ဝေါဟာရများ</string>
+    <string name="reading">ဖတ်စာ</string>
+    <string name="favorites">အကြိုက်ဆုံးများ</string>
+    <string name="languages">ဘာသာစကားများ</string>
+    <string name="rate">Rate this app</string>
+    <string name="english">အင်္ဂလိပ်</string>
+    <string name="myanmar">မြန်မာ</string>
+    <string name="confirm">အတည်ပြုမည်</string>
+    <string name="cancel">မလုပ်ပါ</string>
+    <string name="DAheading">အားလုံးကိုဖျက်မည်</string>
+    <string name="DAtext">အကြိုက်ဆုံးစာရင်းတစ်ခုလုံးကိုဖျက်လိုသည်မှာသေချာပါသလား။</string>
+    <string name="delete">သေချာပါတယ်</string>
+    <string name="search">ရှာဖွေရန်ဤနေရာကိုနှိပ်ပါ</string>
+    <string name="levelAdd">Have you done learning Hanyu 1? Get Hanyu 2 on Playstore and take your Chinese to another level.</string>
+    <string name="lesson1">သင်ခန်းစာ (၁)</string>
+    <string name="lesson2">သင်ခန်းစာ (၂)</string>
+    <string name="lesson3">သင်ခန်းစာ (၃)</string>
+    <string name="lesson4">သင်ခန်းစာ (၄)</string>
+    <string name="lesson5">သင်ခန်းစာ (၅)</string>
+    <string name="lesson6">သင်ခန်းစာ (၆)</string>
+    <string name="lesson7">သင်ခန်းစာ (၇)</string>
+    <string name="lesson8">သင်ခန်းစာ (၈)</string>
+    <string name="lesson9">သင်ခန်းစာ (၉)</string>
+    <string name="lesson10">သင်ခန်းစာ (၁၀)</string>
+    <string name="lesson11">သင်ခန်းစာ (၁၁)</string>
+    <string name="lesson12">သင်ခန်းစာ (၁၂)</string>
+    <string name="lesson13">သင်ခန်းစာ (၁၃)</string>
+    <string name="lesson14">သင်ခန်းစာ (၁၄)</string>
+    <string name="lesson15">သင်ခန်းစာ (၁၅)</string>
+
+    <!-- Book 1 Lesson 1 -->
+    <string name="d1">သင်၊သင့်ကို၊သင်၏</string>
+    <string name="d2">ကောင်းသော</string>
+    <string name="d3">ကျေးဇူးပါ</string>
+    <string name="d4">ရပါတယ် ကိစ္စမရှိပါဘူး</string>
+    <string name="d5">နောက်မှထပ်တွေမယ်၊ဘိုင့်ဘိုင်</string>
+    <string name="d6">ဆရာ</string>
+    <string name="d7">အတန်းဖော်၊အတန်းသား</string>
+    <string name="d8">လူပုဂ္ဂိုလ်ဆိုင်ရာနာမ်စား(သို့)နာမ်၏နောက်တွင်ထား၍အများကိန်းပြောင်းသောပစ္စည်း</string>
+    <string name="d9">ရှောင်ဟွာ(နာမည်)</string>
+    <string name="d10">ရှောင်ဟုန်(နာမည်)</string>
+    <string name="d11">ရှောင်ချန်(နာမည်)</string>
+    <string name="b1l1s1">မင်္ဂလာပါ</string>
+    <string name="b1l1s2">ကျေးဇူးပါ</string>
+    <string name="b1l1s3">ရပါတယ်</string>
+    <string name="b1l1s4">နောက်မှထပ်တွေ့မယ်</string>
+    <string name="b1l1s5">ရှောင်ဟွာ: မင်္ဂလာပါ!</string>
+    <string name="b1l1s6">ရှောင်ဟုန်: မင်္ဂလာပါ!</string>
+    <string name="b1l1s7">ရှောင်ချန်၊ ရှောင်ဟုန်: မင်္ဂလာပါ ဆရာ!</string>
+    <string name="b1l1s8">ဆရာ: မင်္ဂလာပါ တပည့်တို့!</string>
+    <string name="b1l1s9">ရှောင်ဟုန်: ကျေးဇူးတင်ပါတယ်!</string>
+    <string name="b1l1s10">ဆရာ: ကိစ္စမရှိပါဘူး!</string>
+    <string name="b1l1s11">ရှောင်ဟွာ၊ ရှောင်ဟုန်: ဆရာ နောက်မှထပ်တွေ့မယ်!</string>
+    <string name="b1l1s12">ဆရာ: နောက်မှထပ်တွေ့မယ်!</string>
+
+    <!-- Book 1 Lesson 2 -->
+    <string name="d12">ကျွန်ုပ်၊ကျွန်ုပ်၏၊ကျွန်ုပ်ကို</string>
+    <string name="d13">ချစ်သည်၊အချစ်</string>
+    <string name="d14">အဖေ</string>
+    <string name="d15">အမေ</string>
+    <string name="d16">ဖြစ်သည်</string>
+    <string name="d17">သူ၊သူ့ကို၊သူ၏</string>
+    <string name="d18">သူမ၊သူမသည်၊သူမကို</string>
+    <string name="d19">ဝမ်(မျိုးရိုးနာမည်)</string>
+    <string name="b1l2s1">ကျွန်တော်ကဝမ်ရှောင်ဟွာဖြစ်ပါတယ်။</string>
+    <string name="b1l2s2">သူကကျွန်တော့်အဖေဖြစ်ပါတယ်။</string>
+    <string name="b1l2s3">သူမကကျွန်တော့်အမေဖြစ်ပါတယ်။</string>
+    <string name="b1l2s4">ကျွန်တော်ကအ‌မေ့ကိုချစ်ပါတယ်။</string>
+    <string name="b1l2s5">အမေကကျွန်တော့်ကိုချစ်ပါတယ်။</string>
+    <string name="b1l2s6">ကျွန်တော်ကအဖေအမေကိုချစ်ပါတယ်။</string>
+    <string name="b1l2s7">ကျွန်တော်ကဝမ်ရှောင်ဟွာဖြစ်ပါတယ်။သူကကျွန်တော့်အဖေဖြစ်ပါတယ်။သူမကကျွန်တော့်အမေဖြစ်ပါတယ်။ကျွန်တော်ကအဖေအမေကိုချစ်ပါတယ်။</string>
+
+    <!-- Book 1 Lesson 3 -->
+    <string name="d20">ကျောင်းသား၊တပည့်</string>
+    <string name="d21">ဦးလေး၊အဖေ့ညီ</string>
+    <string name="d22">ရဲ</string>
+    <string name="d23">ဆရာဝန်</string>
+    <string name="d24">မြန်မာလို(လား)နှင့်ဆင်သည်။မေးခွန်းနောက်တွင်ထားသုံးသည်။</string>
+    <string name="d25">မဟုတ်ပါ၊မဖြစ်ပါ၊အငြင်းစာလုံး</string>
+    <string name="d26">ညီ</string>
+    <string name="d27">ညီမ</string>
+    <string name="b1l3s1">ကျွန်တော်ကကျောင်းသားဖြစ်ပါတယ်။</string>
+    <string name="b1l3s2">အဖေကဆရာဖြစ်ပါတယ်။</string>
+    <string name="b1l3s3">အမေကဆရာဝန်ဖြစ်ပါတယ်။</string>
+    <string name="b1l3s4">ဦးလေးကရဲဖြစ်ပါတယ်။</string>
+    <string name="b1l3s5">သင့်အမေကဆရာလား။</string>
+    <string name="b1l3s6">ကျွန်ုပ်အမေကဆရာမဟုတ်ပါ၊ သူမကဆရာဝန်ဖြစ်ပါတယ်။</string>
+    <string name="b1l3s7">သင့်အဖေကဆရာဝန်လား။</string>
+    <string name="b1l3s8">ကျွန်ုပ်အဖေကဆရာဝန်မဟုတ်ပါ၊ သူကဆရာဖြစ်ပါတယ်။</string>
+    <string name="b1l3s9">အဖေကဆရာဖြစ်တယ်၊ အမေကဆရာဝန်ဖြစ်တယ်၊ ကျွန်တော်ကကျောင်းသားဖြစ်ပါတယ်။ ညီလေး၊ညီမလေးကကျောင်းသားလား။ သူတို့ကကျောင်းသားမဟုတ်ပါ။</string>
+
+    <!-- Book 1 Lesson 4 -->
+    <string name="d28">ခေါ်သည်၊နာမည်ခေါ်သည်</string>
+    <string name="d29">ဘာ</string>
+    <string name="d30">နာမည်</string>
+    <string name="d31">မျိုးရိုးနာမည်ခေါ်သည်</string>
+    <string name="d32">အစ်ကို</string>
+    <string name="d33">အစ်မ</string>
+    <string name="d34">ကျန်း(မျိုးရိုးနာမည်)</string>
+    <string name="d35">ချန်(မျိုးရိုးနာမည်)</string>
+    <string name="d36">ဝမ်ရှောင်မြင်(နာမည်)</string>
+    <string name="d37">လီရှောင်လင်(နာမည်)</string>
+    <string name="d38">ဝမ်ရှောင်လိ(နာမည်)</string>
+    <string name="b1l4s1">သင့်မျိုးရိုးနာမည်ကဘာလဲ။ကျွန်ုပ်မျိုးရိုးနာမည်ကဝမ်ဖြစ်ပါတယ်။</string>
+    <string name="b1l4s2">သူ့မျိုးရိုးနာမည်ကဘာလဲ။ သူ့မျိုးရိုးနာမည်ကကျန်းဖြစ်ပါတယ်။</string>
+    <string name="b1l4s3">ဆရာ့မျိုးရိုးနာမည်ကဘာလဲ။ဆရာ့မျိုးရိုးနာမည်ကချန်ဖြစ်ပါတယ်။</string>
+    <string name="b1l4s4">သင့်နာမည်ဘယ်လိုခေါ်သလဲ။</string>
+    <string name="b1l4s5">ကျွန်ုပ်နာမည်ဝမ်ရှောင်မင်လို့ခေါ်ပါတယ်။</string>
+    <string name="b1l4s6">သင့်အစ်ကိုနာမည်ဘယ်လိုခေါ်သလဲ။</string>
+    <string name="b1l4s7">သူ့နာမည်ဝမ်ရှောင်ဟွာလို့ခေါ်ပါတယ်။</string>
+    <string name="b1l4s8">သင့်အစ်မနာမည်ဘယ်လိုခေါ်သလဲ။</string>
+    <string name="b1l4s9">သူမနာမည်လီရှောင်လင်လို့ခေါ်ပါတယ်။</string>
+    <string name="b1l4s10">ကျွန်ုပ်မျိုးရိုးနာမည်ကဝမ်ဖြစ်ပါတယ်။နာမည်ကိုဝမ်ရှောင်ဟွာလို့ခေါ်ပါတယ်။ကျွန်တော့်ညီနာမည်ကိုဝမ်ရှောင်မင်လို့ခေါ်ပါတယ်။ကျွန်တော့်ညီမနာမည်ကိုဝမ်ရှောင်လိလို့ခေါ်ပါတယ်။</string>
+
+    <!-- Book 1 Lesson 5 -->
+    <string name="d39">အိမ်၊မိသားစု</string>
+    <string name="d40">ဒီ၊ဒီဟာ</string>
+    <string name="d41">ပြန်လည်မေးမြန်းသောမေးခွန်း၊နေရာမေးသောမေးခွန်းများနောက်တွင်သုံးသည်။မြန်မာလို(ကော)နှင့်အဓိပ္ပာယ်တူသည်။</string>
+    <string name="d42">ညစ်ပတ်သော</string>
+    <string name="d43">အော်၊အာမေဋိတ်</string>
+    <string name="d44">တောင်းပန်ပါတယ်</string>
+    <string name="d45">ကိစ္စမရှိပါဘူး</string>
+    <string name="b1l5s1">ဒါကကျွန်တော့်အိမ်ပါ၊ ကျွန်တော်ကအဖေ့ကိုချစ်တယ်၊ ကျွန်တော်ကအမေ့ကိုချစ်တယ်၊ ကျွန်တော်ကကျွန်တော့်အိမ်ကိုချစ်တယ်။</string>
+    <string name="b1l5s2">ဝမ်ရှောင်ဟွာ: မင်္ဂလာပါ</string>
+    <string name="b1l5s3">ကျန်းရှောင်ချန်: မင်္ဂလာပါ</string>
+    <string name="b1l5s4">ဝမ်ရှောင်ဟွာ: ကျွန်တော်ကဝမ်ရှောင်ဟွာဖြစ်ပါတယ်။ သင်ကော?</string>
+    <string name="b1l5s5">ကျန်းရှောင်ချန်: ကျွန်တော့်နာမည်ကိုကျန်းရှောင်ချန်လို့ခေါ်ပါတယ်။</string>
+    <string name="b1l5s6">ဝမ်ရှောင်ဟွာ: ဇန်း__ရှောင်__ချန်?</string>
+    <string name="b1l5s7">ကျန်းရှောင်ချန်: ကျွန်တော့်မျိုးရိုးနာမည်ကကျန်းပါ၊ ကျွန်တော်ကမညစ်ပတ်ပါဘူး။(ဇန်းကညစ်ပတ်သောဆိုတဲ့အဓိပ္ပာယ်ပါ)</string>
+    <string name="b1l5s8">ဝမ်ရှောင်ဟွာ: အော်၊ တောင်းပန်ပါတယ် ကျန်းရှောင်ချန်။</string>
+    <string name="b1l5s9">ကျန်းရှောင်ချန်: ရပါတယ်။</string>
+
+    <!-- Book 1 Lesson 6 -->
+    <string name="d46">သွားသည်၊သို့သွားသည်</string>
+    <string name="d47">ကျောင်း</string>
+    <string name="d48">ဘယ်နေရာ၊ဘယ်မှာ</string>
+    <string name="d49">အိမ်သာ</string>
+    <string name="d50">စာသင်ခန်း</string>
+    <string name="d51">(အဖေ့ဘက်မှ)အဘိုး</string>
+    <string name="d52">ပန်းခြံ</string>
+    <string name="d53">မနက်(အစော)</string>
+    <string name="d54">ဆေးရုံ</string>
+    <string name="d55">မူကြို၊ကလေးထိန်းကျောင်း</string>
+    <string name="b1l6s1">ရှောင်ဟွာဘယ်သွားသလဲ။</string>
+    <string name="b1l6s2">ရှောင်ဟွာကျောင်းသွားတယ်။</string>
+    <string name="b1l6s3">ရှောင်ချန်အိမ်သာသွားတယ်။</string>
+    <string name="b1l6s4">ဆရာချန်စာသင်ခန်းသို့သွားတယ်။</string>
+    <string name="b1l6s5">အဘိုးပန်းခြံသွားတယ်။</string>
+    <string name="b1l6s6">အမေကဆရာဝန်ဖြစ်ပါတယ်၊မနက်ခင်းမှာသူမကဆေးရုံသို့သွားတယ်။ကျွန်တော်ကမူကြိုကျောင်းသို့သွားတယ်။အစ်ကိုဘယ်သွားသလဲ။အစ်ကိုကကျောင်းသို့သွားပါတယ်။</string>
+
+    <!-- Book 1 Lesson 7 -->
+    <string name="d56">အတန်း၊သင်ခန်းစာ</string>
+    <string name="d57">အတန်းတက်သည်</string>
+    <string name="d58">အကြံပြုချက်များ၊အမိန့်ပေးချက်များနောက်တွင်ထား၍သုံးသည်</string>
+    <string name="d59">သင်ပြသည်၊ရှင်းပြသည်၊ပြောပြသည်</string>
+    <string name="d60">စာသင်သည်</string>
+    <string name="d61">နားထောင်သည်</string>
+    <string name="d62">စာနားထောင်သည်</string>
+    <string name="d63">ကစားကွင်း</string>
+    <string name="d64">တိရစ္ဆာန်ရုံ</string>
+    <string name="d65">အခြေအနေပြောင်းလဲသွားသောစာကြောင်းများနောက်တွင်ထားသုံးသည်။</string>
+    <string name="d66">ဝင်သည်</string>
+    <string name="d67">မေးသည်</string>
+    <string name="d68">ဖြေသည်</string>
+    <string name="b1l7s1">ကျွန်တော်တို့အတန်းတက်တယ်။</string>
+    <string name="b1l7s2">ဆရာစာသင်တယ်။</string>
+    <string name="b1l7s3">ကျွန်တော်တို့စာနားထောင်တယ်။</string>
+    <string name="b1l7s4">ကျွန်တော်တို့ကစားကွင်းသွားရအောင်။</string>
+    <string name="b1l7s5">ကျွန်တော်တို့တိရစ္ဆာန်ရုံသွားရအောင်။</string>
+    <string name="b1l7s6">ကျွန်တော်တို့အတန်းတက်ရအောင်။</string>
+    <string name="b1l7s7">အတန်းတက်ပြီ၊ ကျွန်တော်တို့စာသင်ခန်းထဲသို့ဝင်ရအောင်။ ဆရာကသင်၊ ကျွန်တော်တို့ကနားထောင်။ ဆရာကမေး၊ကျွန်တော်တို့ကဖြေ။</string>
+
+    <!-- Book 1 Lesson 8 -->
+    <string name="d69">စားသည်</string>
+    <string name="d70">ချက်ထားသောထမင်း၊အစားအစာ</string>
+    <string name="d71">နေ့လည်စာ</string>
+    <string name="d72">မနက်စာ</string>
+    <string name="d73">ညစာ</string>
+    <string name="d74">ခေါက်ဆွဲ</string>
+    <string name="d75">နေ့လယ်ခင်း</string>
+    <string name="d76">ဖက်ထုပ်</string>
+    <string name="d77">ညနေခင်း</string>
+    <string name="d78">(ချက်ထားသော)ထမင်း</string>
+    <string name="d79">နှင့်၊နဲ့</string>
+    <string name="b1l8s1">ရှောင်ဟွာမနက်စာစားတယ်။</string>
+    <string name="b1l8s2">ရှောင်ဟွာနေ့လည်စာစားတယ်။</string>
+    <string name="b1l8s3">ရှောင်ဟွာညစာစားတယ်။</string>
+    <string name="b1l8s4">မနက်ခင်းမှာအဖေကခေါက်ဆွဲစားတယ်။</string>
+    <string name="b1l8s5">နေ့လည်ခင်းမှာအမေကဖက်ထုပ်စားတယ်။</string>
+    <string name="b1l8s6">ညနေမှာကျွန်တော်တို့ထမင်းစားတယ်။</string>
+    <string name="b1l8s7">ကျွန်တော်နဲ့ညီမလေးတိရစ္ဆာန်ရုံသို့သွားတယ်။</string>
+    <string name="b1l8s8">ရှောင်ဟွာနဲ့ရှောင်ချန်ကအတန်းဖော်တွေဖြစ်တယ်။</string>
+    <string name="b1l8s9">အဖေနဲ့အမေကမနက်စာစားတယ်။</string>
+    <string name="b1l8s10">နေ့ခင်းမှာကျွန်တော်တို့နေ့လည်စာစားတယ်။ကျွန်တော်ကခေါက်ဆွဲစားတယ်၊ရှောင်ဟုန်နဲ့ရှောင်ချန်ကထမင်းစားတယ်၊ဆရာကဖက်ထုပ်စားပါတယ်။</string>
+
+    <!-- Book 1 Lesson 9 -->
+    <string name="d80">ကစားသည်၊ရိုက်သည်</string>
+    <string name="d81">ဘောလုံး</string>
+    <string name="d82">ဘယ်သူ</string>
+    <string name="d83">ဘက်စကတ်ဘောလုံး</string>
+    <string name="d84">ဘောလီဘော‌(ဘောလုံး)</string>
+    <string name="d85">ကန်သည်၊ကစားသည်</string>
+    <string name="d86">ဘောလုံး(ကစားနည်း)</string>
+    <string name="d87">အတန်းဆင်းသည်</string>
+    <string name="d88">ပင်ပေါင်(ဘောလုံး)</string>
+    <string name="d89">ခုန်သည်</string>
+    <string name="d90">ကြိုး</string>
+    <string name="b1l9s1">သူကဘယ်သူလဲ။</string>
+    <string name="b1l9s2">သူကကျွန်တော့်အစ်ကိုဖြစ်ပါတယ်။</string>
+    <string name="b1l9s3">ရှောင်ဟွာဘောလုံးကစားတယ်။</string>
+    <string name="b1l9s4">ရှောင်ဟွာဘက်စကတ်ဘောကစားတယ်။</string>
+    <string name="b1l9s5">အစ်ကိုကဘောလီဘောမကစားဘူး။</string>
+    <string name="b1l9s6">အစ်မကဘောလုံးမကန်ဘူး။</string>
+    <string name="b1l9s7">အတန်းဆင်းပြီ၊ အတန်းဖော်တို့ဘတ်စကတ်ဘောကစားတယ်၊‌ ဘောလုံးကန်တယ်။ကျွန်တော်နဲ့ရှောင်ချန်ကပင်ပေါင်ကစားတယ်။ရှောင်ဟုန်ကဘောလုံးမကစားဘူး၊သူမကကြိုးခုန်တယ်။</string>
+
+    <!-- Book 1 Lesson 10 -->
+    <string name="d91">၏၊ရဲ့</string>
+    <string name="d92">ရက်၊နေ့၊ကောင်းကင်၊ရာသီ</string>
+    <string name="d93">ပြုလုပ်သည်</string>
+    <string name="d94">ဂိမ်း</string>
+    <string name="d95">ကျောင်းဆင်းသည်</string>
+    <string name="d96">ပြန်သည်</string>
+    <string name="d97">အိမ်စာ</string>
+    <string name="d98">ပေါင်မုန့်</string>
+    <string name="b1l10s1">မနက်ခင်းမှာကျွန်တော်ကျောင်းသွားတယ်။အတန်းတက်ပြီ၊ဆရာကစာသင်တယ်၊ကျွန်တော်တို့ကစာနားထောင်တယ်။အတန်းဆင်းပြီ၊ကျွန်တော်နဲ့အတန်းဖော်တို့ကစားကြတယ်။ကျောင်းဆင်းပြီ၊ကျွန်တော်အိမ်ပြန်ပြီးအိမ်စာလုပ်တယ်။</string>
+    <string name="b1l10s2">ကျန်းရှောင်ချန်: သူကဘယ်သူလဲ။</string>
+    <string name="b1l10s3">ဝမ်ရှောင်ဟွာ: သူကကျွန်တော့်အဖေပါ။</string>
+    <string name="b1l10s4">ကျန်းရှောင်ချန်: သူကဘာစားသလဲ။</string>
+    <string name="b1l10s5">ဝမ်ရှောင်ဟွာ: သူကခေါက်ဆွဲစားပါတယ်။</string>
+    <string name="b1l10s6">ကျန်းရှောင်ချန်: သူဘယ်သွားသလဲ။</string>
+    <string name="b1l10s7">ဝမ်ရှောင်ဟွာ: သူကျောင်းသွားပါတယ်။</string>
+    <string name="b1l10s8">ကျန်းရှောင်ချန်: သူနဲ့ဘယ်သူဘက်စကတ်ဘောကစားသလဲ။</string>
+    <string name="b1l10s9">ဝမ်ရှောင်ဟွာ: သူနဲ့အစ်ကိုကြီးဘက်စကတ်ဘောကစားပါတယ်။</string>
+
+    <!-- Book 1 Lesson 11 -->
+    <string name="d99">စာအုပ်</string>
+    <string name="d100">ဘောပင်၊ခဲတံ၊စုတ်တံ</string>
+    <string name="d101">အရုပ်၊ကစားစရာ</string>
+    <string name="d102">ဟို၊ဟိုဟာ</string>
+    <string name="d103">ကျောင်းလွယ်အိတ်</string>
+    <string name="d104">စာအုပ်၊မှတ်စုစာအုပ်</string>
+    <string name="d105">ပေတံ</string>
+    <string name="d106">(အဖေ့ဘက်မှ)အဘွား</string>
+    <string name="d107">တစ်ခုံတည်းအတူထိုင်သူ</string>
+    <string name="b1l11s1">ဒီဟာကကျွန်တော့်ရဲ့စာအုပ်ဖြစ်ပါတယ်။</string>
+    <string name="b1l11s2">ဒီဟာကရှောင်ချန်ရဲ့ဘောပင်ဖြစ်ပါတယ်။</string>
+    <string name="b1l11s3">ဒီဟာကညီမလေးရဲ့အရုပ်ဖြစ်ပါတယ်။</string>
+    <string name="b1l11s4">ဟိုဟာကဘယ်သူရဲ့လွယ်အိတ်လဲ။</string>
+    <string name="b1l11s5">ဟိုဟာကဘယ်သူရဲ့မှတ်စုစာအုပ်လဲ။</string>
+    <string name="b1l11s6">ဟိုဟာကဘယ်သူရဲ့ပေတံလဲ။</string>
+    <string name="b1l11s7">သူမကဘယ်သူ့ရဲ့အဖွားလဲ။</string>
+    <string name="b1l11s8">သူမကရှောင်လိရဲ့အဖွားဖြစ်ပါတယ်။</string>
+    <string name="b1l11s9">ဒီဟာကကျွန်တော့်ရဲ့စာအုပ်ဖြစ်တယ်၊ ဟိုဟာကကျွန်တော့်ခုံဖော်(တစ်စားပွဲတည်းထိုင်သူ)ရဲ့ပုံနှိပ်စာအုပ်ဖြစ်ပါတယ်။ဒီဟာကရှောင်ချန်ရဲ့ကျောင်းလွယ်အိတ်ဖြစ်ပါတယ်။ဟိုဟာကဘယ်သူ့ရဲ့ကျောင်းလွယ်အိတ်လဲ။ဟိုဟာကရှောင်ဟွာရဲ့ကျောင်းလွယ်အိတ်ဖြစ်ပါတယ်။</string>
+
+    <!-- Book 1 Lesson 12 -->
+    <string name="d108">မှာရှိသည်၊ရှိသည်၊ပိုင်သည်၊တည်ရှိသည်</string>
+    <string name="d109">နှစ်၊၂</string>
+    <string name="d110">စာအုပ်ကိုရေတွက်သည့်စကားလုံး၊မြန်မာလို(အုပ်)ဖြင့်ဆင်သည်</string>
+    <string name="d111">နာမ်အတော်များများကိုရေတွက်သည့်စကားလုံး၊မြန်မာလို(ခု)နဲ့ဆင်သည်</string>
+    <string name="d112">အဒေါ်၊အမေ့ညီမ</string>
+    <string name="d113">သား</string>
+    <string name="d114">သမီး</string>
+    <string name="d115">ရှည်ပြီးပါးသော၊မာသောပစ္စည်းများကိုရေတွက်သည့်စကားလုံး၊မြန်မာလို(ချောင်း)နဲ့ဆင်သည်</string>
+    <string name="d116">ဘယ်လောက်</string>
+    <string name="b1l12s1">ကျွန်တော့်မှာညီမသုံးယောက်ရှိတယ်။</string>
+    <string name="b1l12s2">အန်တီလီမှာသားတစ်ယောက်ရှိတယ်။</string>
+    <string name="b1l12s3">ဦးလေးချန်မှာသမီးတစ်ယောက်ရှိတယ်။</string>
+    <string name="b1l12s4">ရှောင်ချန်မှာဘောပင်နှစ်ချောင်းရှိတယ်။</string>
+    <string name="b1l12s5">ရှောင်ဟွာမှာစာအုပ်နှစ်အုပ်ရှိတယ်။</string>
+    <string name="b1l12s6">ရှောင်မင်မှာမှတ်စုစာအုပ်နှစ်အုပ်ရှိတယ်။</string>
+    <string name="b1l12s7">သင့်မှာဘောပင်ဘယ်နှစ်ချောင်းရှိသလဲ။</string>
+    <string name="b1l12s8">သင့်မှာပုံနှိပ်စာအုပ်ဘယ်နှစ်အုပ်ရှိသလဲ။</string>
+    <string name="b1l12s9">သင့်မှာမှတ်စုစာအုပ်ဘယ်နှစ်အုပ်ရှိသလဲ။</string>
+    <string name="b1l12s10">ဒီဟာကကျွန်တော့်ရဲ့ကျောင်းလွယ်အိတ်ဖြစ်ပါတယ်။ကျွန်တော့်မှညပုံနှိပ်စာအုပ်နှစ်အုပ်၊ဘောပင်လေးချောင်းနဲ့မှတ်စုစာအုပ်ငါးအုပ်ရှိပါတယ်။သင့်မှာပုံနှိပ်ဘယ်နှစ်အုပ်ရှိသလဲ။</string>
+
+    <!-- Book 1 Lesson 13 -->
+    <string name="d117">ကွန်ပြူတာ</string>
+    <string name="d118">အချို့သောစက်ပစ္စည်းများကိုရေတွက်ရာတွင်သုံးသောစကားလုံး</string>
+    <string name="d119">အိပ်ရာ၊စားပွဲ၊စာရွက်၊သားရေ၊မျက်နှာ၊ပါးစပ်စသည်တို့ကိုရေတွက်သည့်ပစ္စည်း၊မြန်မာလိုလုံး၊ခုစသည်ဖြင့်ဆင်သည်။</string>
+    <string name="d120">ဓာတ်ပုံ</string>
+    <string name="d121">မရှိပါ၊မရှိဘူး</string>
+    <string name="d122">စက်ဘီး</string>
+    <string name="d123">အဘိဓာန်</string>
+    <string name="d124">ထီး</string>
+    <string name="d125">ကန်တင်း၊စားသောက်ရန်နေရာ</string>
+    <string name="b1l13s1">ကျွန်တော့်မှာကွန်ပြူတာတစ်လုံးရှိတယ်။</string>
+    <string name="b1l13s2">ကျွန်တော့်မှာဓာတ်ပုံတစ်ပုံရှိတယ်။</string>
+    <string name="b1l13s3">ကျွန်တော့်မှာစက်ဘီးမရှိပါ။</string>
+    <string name="b1l13s4">ကျွန်တော့်မှာအဘိဓာန်မရှိပါ။</string>
+    <string name="b1l13s5">ရှောင်ချန်မှာကွန်ပြူတာရှိသလား။</string>
+    <string name="b1l13s6">ရှောင်လိမှာထီးရှိသလား။</string>
+    <string name="b1l13s7">သင့်မှာအစ်ကိုရှိလားမရှိဘူးလား။</string>
+    <string name="b1l13s8">သင်တို့ကျောင်းမှာကန်တင်းရှိလားမရှိဘူးလား။</string>
+    <string name="b1l13s9">ကျွန်တော့်အိမ်မှာကွန်ပြူတာနှစ်လုံးရှိပါတယ်၊အဖေ့မှာတစ်လုံးရှိပါတယ်၊အစ်ကို့မှာတစ်လုံးရှိပါတယ်၊ကျွန်တော့်မှာကွန်ပြူတာမရှိပါ။သင့်အိမ်မှာကွန်ပြူတာရှိသလား။</string>
+
+    <!-- Book 1 Lesson 14 -->
+    <string name="d126">တည်ရှိသည်၊မှာရှိသည်</string>
+    <string name="d127">စာအုပ်စင်</string>
+    <string name="d128">အပေါ်၊တက်သည်</string>
+    <string name="d129">စားပွဲ</string>
+    <string name="d130">ကုလားထိုင်</string>
+    <string name="d131">အောက်၊ဆင်းသည်</string>
+    <string name="d132">ဘက်၊ဘက်ခြမ်း</string>
+    <string name="d133">စာကြည့်တိုက်</string>
+    <string name="d134">ဘယ်(ဘက်)</string>
+    <string name="d135">ညာ(ဘက်)</string>
+    <string name="b1l14s1">စာအုပ်က စားပွဲပေါ်မှာရှိတယ်။</string>
+    <string name="b1l14s2">စာအုပ်က ကုလားထိုင်ပေါ်မှာရှိတယ်။</string>
+    <string name="b1l14s3">စာအုပ်က စာအုပ်စင်အပေါ်မှာရှိတယ်။</string>
+    <string name="b1l14s4">ဘက်စကတ်ဘောလုံးကကုလားထိုင်အောက်မှာရှိတယ်။</string>
+    <string name="b1l14s5">ဗလာစာအုပ်က စာလုံးအဘိဓာန်အောက်ဘက်မှာရှိတယ်။</string>
+    <string name="b1l14s6">ကျောပိုးအိတ်က စားပွဲအောက်ဘက်မှာရှိတယ်။</string>
+    <string name="b1l14s7">စာသင်ခန်းက စာကြည့်တိုက်ဘယ်ဘက်မှာရှိတယ်။</string>
+    <string name="b1l14s8">စာကြည့်တိုက်က စာသင်ခန်းညာဘက်မှာရှိတယ်။</string>
+    <string name="b1l14s9">ညီမလေးကမေမေ့ရဲ့ညာဘက်မှာရှိတယ်။</string>
+    <string name="b1l14s10">ညီလေးကမေမေ့ရဲ့ဘယ်ဘက်မှာရှိတယ်။</string>
+    <string name="b1l14s11">ကျွန်တော်တို့ကျောင်းမှာစာကြည့်တိုက်တစ်ခုရှိတယ်။</string>
+    <string name="b1l14s12">စာကြည့်တိုက်ကစာသင်ခန်းရဲ့ညာဘက်မှာရှိတယ်။</string>
+    <string name="b1l14s13">စာကြည့်တိုက်မှစာအုပ်ကဘယ်မှာရှိသလဲ။</string>
+    <string name="b1l14s14">စာအုပ်ကစာအုပ်စင်ပေါ်မှာရှိတယ်။</string>
+
+    <!-- Book 1 Lesson 15 -->
+    <string name="d136">အခန်း</string>
+    <string name="d137">ဒီနေရာ</string>
+    <string name="d138">အိပ်ယာ</string>
+    <string name="d139">အဝတ်ဗီရို</string>
+    <string name="d140">လက်ကိုင်ပါသောပစ္စည်းများကိုရေတွက်ရာတွင်သုံးသည့်စကားလုံး</string>
+    <string name="d141">စာပွဲဝိုင်း</string>
+    <string name="d142">လက်</string>
+    <string name="d143">နှာခေါင်း</string>
+    <string name="d144">မျက်ခုံး</string>
+    <string name="d145">မျက်လုံး</string>
+    <string name="d146">ပါးစပ်</string>
+    <string name="d147">နားရွက်</string>
+    <string name="b1l15s1">ဒီဟာကကျွန်တော့်ရဲ့အခန်းဖြစ်ပါတယ်။ဒီနေရာမှာခုတင်တစ်လုံး, စာအုပ်စင်တစ်စင်, အဝတ်ဗီဒိုတစ်လုံး, စားပွဲနှစ်ခုနဲ့ကုလားထိုင်နှစ်ခုရှိပါတယ်။</string>
+    <string name="b1l15s2">ကျွန်တော့်ရဲ့ကွန်ပြူတာက စားပွဲအပေါ်ဘက်မှာရှိပါတယ်။ဘောလုံးက စားပွဲဝိုင်းအောက်ဘက်မှာရှိပါတယ်။</string>
+
+</resources>
